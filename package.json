@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "babel-cli": "^6.18.0"
+    "babel-cli": "^6.23.0"
   },
   "scripts": {
     "build": "babel --source-maps --out-dir=dist/ src/",
